@@ -5,6 +5,13 @@
 
 ---
 
+### 🔗 Project Links
+
+- 🌐 **Live Web Application (Vercel)**: [https://civicconnect-gilt.vercel.app/](https://civicconnect-gilt.vercel.app/)
+- 📦 **GitHub Repository**: [https://github.com/ramkolipakula/waf-theory-assignment.git](https://github.com/ramkolipakula/waf-theory-assignment.git)
+
+---
+
 ## 1. Problem Statement
 
 In municipal districts and residential neighborhoods worldwide, citizens regularly encounter urgent civic issues:
@@ -419,6 +426,10 @@ In your Vercel Project Settings &rarr; **Environment Variables**, add:
 4. Set the Environment Variables listed above.
 5. Click **Deploy**. Vercel will build the frontend and configure the serverless API routes.
 
+### Live Deployment & Repository Information
+- **Live Production URL**: [https://civicconnect-gilt.vercel.app/](https://civicconnect-gilt.vercel.app/)
+- **GitHub Repository**: [https://github.com/ramkolipakula/waf-theory-assignment.git](https://github.com/ramkolipakula/waf-theory-assignment.git)
+
 ---
 
 ## 15. Academic Assignment Mapping
@@ -435,7 +446,8 @@ In your Vercel Project Settings &rarr; **Environment Variables**, add:
 | **MongoDB & Mongoose** | Schema definitions for Users, Issues, Departments, and Comments with field validation, indexes, and aggregation pipelines. |
 | **CRUD Operations** | Complete Create, Read, Update, and Delete operations for civic issues, comments, departments, and user profiles. |
 | **Authentication & RBAC** | Stateless JWT authentication, bcrypt password hashing, and role-based access control (`citizen` vs `admin`). |
-| **Vercel Preparation** | Root `vercel.json` rewrite configuration, serverless entrypoint `api/index.js`, and Atlas deployment guide. |
+| **Vercel Deployment** | Fully deployed and live at [https://civicconnect-gilt.vercel.app/](https://civicconnect-gilt.vercel.app/) with root serverless function configuration. |
+| **GitHub Repository** | Source code managed and versioned at [https://github.com/ramkolipakula/waf-theory-assignment.git](https://github.com/ramkolipakula/waf-theory-assignment.git). |
 | **Documentation & Evidence**| Comprehensive root `README.md` embedding 10 real browser screenshots captured from the running application. |
 
 ---
